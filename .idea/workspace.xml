@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a603469-5482-4488-b223-dff9a26a0476" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/cymx3AwW44c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/phonebook/migrations/0001_initial.py" beforeDir="false" />
@@ -165,12 +167,12 @@
       <workItem from="1553783000691" duration="4129000" />
       <workItem from="1553787468827" duration="1400000" />
       <workItem from="1553800578432" duration="123000" />
-      <workItem from="1554107829330" duration="859000" />
+      <workItem from="1554107829330" duration="1765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8770000" />
+    <option name="totallyTimeSpent" value="9676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
